@@ -1,0 +1,11 @@
+.btnBig {
+    background-color: $light-blue;
+    width: 80%;
+    border: none;
+    padding: $large-size;
+    border-bottom: $small-size solid lighten($dark-blue, 10);
+    color: white;
+    margin-top: $xxlarge-size;
+    font-size: $large-size;
+    font-weight: 400;
+}
